@@ -4,3 +4,6 @@
 [submodule "sources/astro"]
 	path = sources/astro
 	url = https://github.com/withastro/docs
+[submodule "sources/opentofu"]
+	path = sources/opentofu
+	url = https://github.com/opentofu/opentofu
