@@ -13,6 +13,7 @@ export const submodules = {
   pnpm: "https://github.com/pnpm/pnpm.io",
   astro: "https://github.com/withastro/docs",
   opentofu: "https://github.com/opentofu/opentofu",
+  terragrunt: "https://github.com/gruntwork-io/terragrunt",
 };
 
 /**

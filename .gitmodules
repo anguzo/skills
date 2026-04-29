@@ -7,3 +7,6 @@
 [submodule "sources/opentofu"]
 	path = sources/opentofu
 	url = https://github.com/opentofu/opentofu
+[submodule "sources/terragrunt"]
+	path = sources/terragrunt
+	url = https://github.com/gruntwork-io/terragrunt
