@@ -1,3 +1,6 @@
 [submodule "sources/pnpm"]
 	path = sources/pnpm
 	url = https://github.com/pnpm/pnpm.io
+[submodule "sources/astro"]
+	path = sources/astro
+	url = https://github.com/withastro/docs
